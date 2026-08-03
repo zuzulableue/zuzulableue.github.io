@@ -122,12 +122,22 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0b0b93fb3e802b1a77be709e32a876bb"
+        "md5": "80dea1b2b260641564f5159ca5f1454e"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/drawing.png",
+        "type": "file",
+        "md5": "ae7aae5de1ed0343a8a41b9d2a2b1e6d"
     },
     {
         "path": "media/posts",
