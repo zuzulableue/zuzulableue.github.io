@@ -1,0 +1,297 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "b6d3ffd8af7b0b962307814f8067a8ba"
+    },
+    {
+        "path": "apap.html",
+        "type": "file",
+        "md5": "659cee320cd1e8ca6d726a1aeac6f203"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0c990d4827458acea6404357d22e5619"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "e10f19cd064fc1dba353adbe8c5a8749"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/robotoflex",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/robotoflex/robotoflex.woff2",
+        "type": "file",
+        "md5": "ba00bb4499c6b1ada4cbf278f0d72b60"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/isotope.pkgd.min.js",
+        "type": "file",
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d1197e1400c54c27939ee87fa7ee9741"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1762f7ab131e33a4eb8fb224822de245"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "2813b916db5705fbd8cc3024ce107375"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/azal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/azal/index.html",
+        "type": "file",
+        "md5": "2d153a538eaee64ba5888073bef6adbd"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f5dc5738dc6b1365fa04fa3fec7acff6"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "674b0b991b8fa972d96c3d62141ff2cc"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0b0b93fb3e802b1a77be709e32a876bb"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/0704.gif",
+        "type": "file",
+        "md5": "9bf9a0371f70940c2be067270fa482d4"
+    },
+    {
+        "path": "/media/posts/2/D40F12CF-2E7F-42E9-9353-582EC12DC0C4.jpeg",
+        "type": "file",
+        "md5": "69107cb9a46448ca1e1f696c10b9cd4a"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-2xl.jpeg",
+        "type": "file",
+        "md5": "3c65ec6f84a78ca540b84cbbef201835"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-lg.jpeg",
+        "type": "file",
+        "md5": "614e5b8ffc04e782e448cb7cff7e39b3"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-md.jpeg",
+        "type": "file",
+        "md5": "80e694292ad95337a0c7aa0a3f98471d"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-sm.jpeg",
+        "type": "file",
+        "md5": "bcba3a424428bbf17b729458194d2ed4"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-sm2.jpeg",
+        "type": "file",
+        "md5": "5f847d5318c0daebf16eb4242ace1f33"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-xl.jpeg",
+        "type": "file",
+        "md5": "23e43f40dbed1db3d7f4f29c3a6acfd6"
+    },
+    {
+        "path": "/media/posts/2/responsive/D40F12CF-2E7F-42E9-9353-582EC12DC0C4-xs.jpeg",
+        "type": "file",
+        "md5": "5a2d746b2ac122a7d7bedc2bf1cfc533"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Screenshot-2026-07-23-at-22.21.06.png",
+        "type": "file",
+        "md5": "86dc881cd5781add998d9df61221b61c"
+    },
+    {
+        "path": "/media/website/my-notion-face-transparent.png",
+        "type": "file",
+        "md5": "155ff7d6492f11cdbf859e3bab95fe26"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-2xl.png",
+        "type": "file",
+        "md5": "82f72e082a033cdc0706adc2603cd5e0"
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-lg.png",
+        "type": "file",
+        "md5": "82f72e082a033cdc0706adc2603cd5e0"
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-md.png",
+        "type": "file",
+        "md5": "fc1844e2f8d0b3b975d5699b3a820c2d"
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-sm.png",
+        "type": "file",
+        "md5": "fca0467ac02b1e5584d6ba90b1ee5f62"
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-xl.png",
+        "type": "file",
+        "md5": "82f72e082a033cdc0706adc2603cd5e0"
+    },
+    {
+        "path": "/media/website/responsive/Screenshot-2026-07-23-at-22.21.06-xs.png",
+        "type": "file",
+        "md5": "b6b8ed10b8a9f0f9068b948a729dae34"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-2xl.png",
+        "type": "file",
+        "md5": "dafab3f07bbd5af59c1b2168a6cb8886"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-lg.png",
+        "type": "file",
+        "md5": "92612799002471669f7a60276de748d8"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-md.png",
+        "type": "file",
+        "md5": "e98b298a5080d4c5f1d17d37ca85da2f"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-sm.png",
+        "type": "file",
+        "md5": "49c91deade9e642830ecddc94c8b6728"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-xl.png",
+        "type": "file",
+        "md5": "1b888c80917a5f0ed8ddb47ec7ccd096"
+    },
+    {
+        "path": "/media/website/responsive/my-notion-face-transparent-xs.png",
+        "type": "file",
+        "md5": "e248d0379b1d7d9b60e01a63991e525a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2c5de09b064b870deb32d0ff1a605b19"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ef4711aca0137185659b460ace1ad1d9"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a777c4df553839db7da09a1d93d76007"
+    }
+]
